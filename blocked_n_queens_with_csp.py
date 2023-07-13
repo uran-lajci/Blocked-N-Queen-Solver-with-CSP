@@ -51,7 +51,7 @@ def main(board_size, blocked_positions):
 
 if __name__ == '__main__':
     size = 4
-    blocked_positions = [(0,0),(1,2)]
+    blocked_positions = [(0, 0), (1, 2)]
     if len(sys.argv) > 1:
         size = int(sys.argv[1])
     main(size, blocked_positions)
