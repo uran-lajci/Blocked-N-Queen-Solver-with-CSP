@@ -8,7 +8,7 @@ queens. The condition is that the queens must not attack
 each other. The input of this problem is the number of queens and 
 blocked fields
 
-To execute the code just type on the terminal: python BlockedNQueensWithCP.py
+To execute the code just type on the terminal: python blocked_n_queens_with_csp.py
 
 A view of the execution for the 4-queen problem
 
