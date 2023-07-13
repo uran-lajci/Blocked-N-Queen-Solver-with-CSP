@@ -1,4 +1,4 @@
-# Blocked-N-Queen-Solver-with-Constraint-Programming
+# Blocked N Queens Solver as a Constraing Satisfaction Problem
 
 Blocked N-Queens is a variant of the N-Queens problem.
 In Blocked N-Queens problem, we also have NxN chessboard 
